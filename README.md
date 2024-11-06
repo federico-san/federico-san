@@ -1,4 +1,4 @@
-🤖 ICT BoS, interested in machine learning & data analysis.<br>
+🤖 ICT BoS with interest in machine learning & data analysis.<br>
 📓 currently expanding my vocabulary in Keras and PyTorch.<br>
 
 🎸 in my spare time, guitar nerd. Sometimes, I even play the damn instrument.<br>
