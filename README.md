@@ -1,4 +1,4 @@
-🤖 ICT BoS with interests in machine learning & data analysis.<br>
+🤖 ICT BSc with interests in machine learning & data analysis.<br>
 📓 currently refining my Python vocabulary and getting fluent in PyTorch, one tensor at a time.<br>
 
 🎸 in my spare time, guitar nerd. Sometimes, I even play the damn instrument.
