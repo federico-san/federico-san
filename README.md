@@ -1,4 +1,4 @@
-## 01110011 01110101 01110000 👋
+## 👋 01110011 01110101 01110000
 
 🎓 BSc in Computer Science, interested in anything related SWD, data science, machine/deep learning, computer vision
 
