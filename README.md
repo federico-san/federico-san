@@ -2,7 +2,7 @@
 
 🎓 BSc in Computer Science, interested in anything related SWD, data science, machine/deep learning, computer vision
 
-🎨 Into the web dev/web design rabbit hole
+🎨 Sometimes into web dev/web design
 
 🎸 In my spare time, guitar nerd...
 
