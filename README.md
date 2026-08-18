@@ -1,8 +1,8 @@
 ## 👋 01110011 01110101 01110000
 
-🎓 BSc in Computer Science, interested in anything related SWD, data science, machine/deep learning, computer vision
+🎓 CS graduate interested in anything related SWD, machine/deep learning, computer vision
 
-🎨 Sometimes into web dev/web design
+🎨 With a keen eye into webdev/web design
 
 🎸 In my spare time, guitar nerd...
 
