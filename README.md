@@ -2,8 +2,8 @@
 
 🎓 CS graduate interested in anything related SWD, machine/deep learning, computer vision
 
-🎨 With a keen eye into webdev/web design
+🎨 With a keen eye into web dev/web design
 
 🎸 In my spare time, guitar nerd...
 
-👟 ... and road runner as well, but without leaving Zone 2 otherwise my shins would instantly explode.
+👟 ...and road runner as well, but without leaving Zone 2 otherwise my shins would instantly explode.
