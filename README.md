@@ -6,4 +6,4 @@
 
 🎸 In my spare time, guitar nerd...
 
-👟 ...and road runner as well, but without leaving Zone 2 otherwise my shins would instantly explode.
+👟 ...and road runner as well, but always without leaving Zone 2.
