@@ -4,6 +4,6 @@
 
 🎨 With a keen eye into web dev/web design
 
-🎸 In my spare time, guitar nerd...
+🎸 In my spare time, guitar nerd
 
-👟 ...and road runner as well, but always without leaving Zone 2.
+👟 ...and road runner as well, but without leaving Zone 2!
